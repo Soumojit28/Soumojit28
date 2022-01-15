@@ -27,7 +27,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%B2%20%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8-63-blue)
 
@@ -60,9 +60,9 @@
 সোমবার       38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
 মঙ্গলবার     55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.67% 
 বুধবার       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
-বৃহস্পতিবার  68 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
+বৃহস্পতিবার  67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.44% 
 শুক্রবার     78 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
-শনিবার       97 commits     █████░░░░░░░░░░░░░░░░░░░░   22.35% 
+শনিবার       98 commits     █████░░░░░░░░░░░░░░░░░░░░   22.58% 
 রবিবার       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.06%
 
 ```
