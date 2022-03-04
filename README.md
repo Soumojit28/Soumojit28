@@ -27,15 +27,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2049%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-239%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,624 Contributions in the Year 2022
+> 🏆 1,625 Contributions in the Year 2022
  > 
 > 📦 156.9 kB Used in GitHub's Storage 
  > 
@@ -59,9 +57,9 @@
 ```text
 Monday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
 Tuesday      58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.15% 
-Wednesday    74 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
+Wednesday    73 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.55% 
 Thursday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
-Friday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
+Friday       66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
 Saturday     89 commits     █████░░░░░░░░░░░░░░░░░░░░   20.18% 
 Sunday       42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
 
@@ -113,5 +111,5 @@ Solidity                 3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soumojit28/Soumojit28/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/03/2022 16:20:46 UTC
+ Last Updated on 04/03/2022 20:17:56 UTC
 <!--END_SECTION:waka-->
