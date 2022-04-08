@@ -27,15 +27,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%204%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-259%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,767 Contributions in the Year 2022
+> 🏆 1,768 Contributions in the Year 2022
  > 
 > 📦 157.4 kB Used in GitHub's Storage 
  > 
@@ -48,9 +46,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
+🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
 🌆 Daytime    147 commits    ████████░░░░░░░░░░░░░░░░░   31.96% 
-🌃 Evening    193 commits    ██████████░░░░░░░░░░░░░░░   41.96% 
+🌃 Evening    194 commits    ██████████░░░░░░░░░░░░░░░   42.17% 
 🌙 Night      64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91%
 
 ```
@@ -113,5 +111,5 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soumojit28/Soumojit28/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/04/2022 16:22:28 UTC
+ Last Updated on 08/04/2022 20:18:30 UTC
 <!--END_SECTION:waka-->
