@@ -27,7 +27,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -49,8 +49,8 @@
 
 ```text
 🌞 Morning    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
-🌆 Daytime    146 commits    ████████░░░░░░░░░░░░░░░░░   31.74% 
-🌃 Evening    192 commits    ██████████░░░░░░░░░░░░░░░   41.74% 
+🌆 Daytime    147 commits    ████████░░░░░░░░░░░░░░░░░   31.96% 
+🌃 Evening    191 commits    ██████████░░░░░░░░░░░░░░░   41.52% 
 🌙 Night      66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35%
 
 ```
@@ -113,5 +113,5 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soumojit28/Soumojit28/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/04/2022 08:23:54 UTC
+ Last Updated on 20/04/2022 12:28:21 UTC
 <!--END_SECTION:waka-->
