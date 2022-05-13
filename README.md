@@ -27,7 +27,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -61,9 +61,9 @@ Monday       60 commits     ███░░░░░░░░░░░░░░�
 Tuesday      67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
 Wednesday    79 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
 Thursday     66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
-Friday       49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
+Friday       50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
 Saturday     83 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.2% 
-Sunday       52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.4%
+Sunday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.18%
 
 ```
 
@@ -113,5 +113,5 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soumojit28/Soumojit28/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/05/2022 04:54:46 UTC
+ Last Updated on 13/05/2022 08:20:11 UTC
 <!--END_SECTION:waka-->
