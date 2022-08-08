@@ -27,7 +27,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,9 +35,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,416 Contributions in the Year 2022
+> 🏆 2,417 Contributions in the Year 2022
  > 
-> 📦 157.6 kB Used in GitHub's Storage 
+> 📦 157.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -48,17 +48,17 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
 🌆 Daytime    123 commits    ████████░░░░░░░░░░░░░░░░░   33.51% 
-🌃 Evening    145 commits    ██████████░░░░░░░░░░░░░░░   39.51% 
+🌃 Evening    144 commits    █████████░░░░░░░░░░░░░░░░   39.24% 
 🌙 Night      45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.26%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
-Tuesday      52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
+Monday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
+Tuesday      51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
 Wednesday    63 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
 Thursday     52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
 Friday       36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.81% 
@@ -113,5 +113,5 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soumojit28/Soumojit28/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/08/2022 04:37:36 UTC
+ Last Updated on 08/08/2022 08:23:20 UTC
 <!--END_SECTION:waka-->
