@@ -27,7 +27,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,5 +112,5 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soumojit28/Soumojit28/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/08/2022 04:56:32 UTC
+ Last Updated on 28/08/2022 08:20:46 UTC
 <!--END_SECTION:waka-->
