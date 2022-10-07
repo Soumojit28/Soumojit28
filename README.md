@@ -27,7 +27,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-766%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-766%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,7 +35,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,745 Contributions in the Year 2022
+> 🏆 2,746 Contributions in the Year 2022
  > 
 > 📦 157.8 kB Used in GitHub's Storage 
  > 
@@ -58,10 +58,10 @@
 
 ```text
 Monday       45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.55% 
-Tuesday      49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
+Tuesday      48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
 Wednesday    64 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.28% 
 Thursday     52 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
-Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.04% 
+Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.34% 
 Saturday     47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
 Sunday       45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.55%
 
@@ -113,5 +113,5 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Soumojit28/Soumojit28/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/10/2022 01:27:23 UTC
+ Last Updated on 07/10/2022 04:50:42 UTC
 <!--END_SECTION:waka-->
