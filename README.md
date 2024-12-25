@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C717%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
@@ -37,7 +37,7 @@
 
 > 📦 206.1 kB Used in GitHub's Storage 
  > 
-> 🏆 798 Contributions in the Year 2024
+> 🏆 799 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -48,16 +48,16 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1266 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-🌆 Daytime                3367 commits        ██████████░░░░░░░░░░░░░░░   39.42 % 
-🌃 Evening                2786 commits        ████████░░░░░░░░░░░░░░░░░   32.62 % 
+🌞 Morning                1267 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+🌆 Daytime                3367 commits        ██████████░░░░░░░░░░░░░░░   39.41 % 
+🌃 Evening                2786 commits        ████████░░░░░░░░░░░░░░░░░   32.61 % 
 🌙 Night                  1123 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   1214 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Tuesday                  1493 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Tuesday                  1494 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
 Wednesday                1495 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
 Thursday                 1614 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
 Friday                   1226 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
@@ -72,16 +72,16 @@ Sunday                   669 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kcash-v2                 2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,5 +101,5 @@ Move                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Soumojit28/Soumojit28/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2024 01:47:28 UTC
+ Last Updated on 25/12/2024 01:51:02 UTC
 <!--END_SECTION:waka-->
