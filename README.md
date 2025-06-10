@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C731%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -37,7 +37,7 @@
 
 > 📦 287.8 kB Used in GitHub's Storage 
  > 
-> 🏆 330 Contributions in the Year 2025
+> 🏆 331 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -50,13 +50,13 @@
 ```text
 🌞 Morning                1357 commits        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
 🌆 Daytime                1795 commits        ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-🌃 Evening                1953 commits        ████████░░░░░░░░░░░░░░░░░   30.36 % 
-🌙 Night                  1328 commits        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+🌃 Evening                1953 commits        ████████░░░░░░░░░░░░░░░░░   30.35 % 
+🌙 Night                  1329 commits        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   842 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Monday                   843 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 Tuesday                  989 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
 Wednesday                950 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 Thursday                 943 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
@@ -105,5 +105,5 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Soumojit28/Soumojit28/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2025 00:23:59 UTC
+ Last Updated on 10/06/2025 00:22:49 UTC
 <!--END_SECTION:waka-->
