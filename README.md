@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C732%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
@@ -37,7 +37,7 @@
 
 > 📦 288.1 kB Used in GitHub's Storage 
  > 
-> 🏆 383 Contributions in the Year 2025
+> 🏆 384 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -48,16 +48,16 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1357 commits        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-🌆 Daytime                1812 commits        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+🌞 Morning                1357 commits        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+🌆 Daytime                1812 commits        ███████░░░░░░░░░░░░░░░░░░   27.75 % 
 🌃 Evening                1973 commits        ████████░░░░░░░░░░░░░░░░░   30.22 % 
-🌙 Night                  1386 commits        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+🌙 Night                  1387 commits        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   863 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Tuesday                  1004 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Tuesday                  1005 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
 Wednesday                963 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
 Thursday                 953 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
 Friday                   1081 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
@@ -72,16 +72,16 @@ Sunday                   777 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-predictramfrontend       2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,5 +101,5 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Soumojit28/Soumojit28/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2025 00:25:26 UTC
+ Last Updated on 16/07/2025 00:24:07 UTC
 <!--END_SECTION:waka-->
