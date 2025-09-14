@@ -32,6 +32,81 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C732%20hrs%2052%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 288.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 559 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 51 Public Repositories 
+ > 
+> 🔑 38 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1361 commits        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+🌆 Daytime                1910 commits        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+🌃 Evening                2058 commits        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+🌙 Night                  1537 commits        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   913 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Tuesday                  1091 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Wednesday                1014 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Thursday                 1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Friday                   1140 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Saturday                 912 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Sunday                   787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               64 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
+JavaScript               42 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Solidity                 8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+ShaderLab                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Soumojit28/Soumojit28/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/09/2025 20:51:45 UTC
 <!--END_SECTION:waka-->
 
 ### 🎧 Songs for My Coding
