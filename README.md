@@ -31,6 +31,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumojit28&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🎧 Songs for My Coding
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vjdjzfiw2nq5wlejprc3ty3h7i)
 
 ### ✍️ Random Dev Quote
