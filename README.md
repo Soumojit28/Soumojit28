@@ -34,19 +34,19 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C732%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 288.5 kB Used in GitHub's Storage 
+> 📦 289.1 kB Used in GitHub's Storage 
  > 
 > 🏆 559 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 51 Public Repositories 
+> 📜 52 Public Repositories 
  > 
 > 🔑 38 Private Repositories 
  > 
@@ -54,17 +54,17 @@
 
 ```text
 🌞 Morning                1361 commits        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-🌆 Daytime                1910 commits        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+🌆 Daytime                1910 commits        ███████░░░░░░░░░░░░░░░░░░   27.81 % 
 🌃 Evening                2058 commits        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
-🌙 Night                  1537 commits        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+🌙 Night                  1538 commits        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   913 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Monday                   914 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 Tuesday                  1091 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 Wednesday                1014 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Thursday                 1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Thursday                 1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
 Friday                   1140 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
 Saturday                 912 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 Sunday                   787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
@@ -106,7 +106,7 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Soumojit28/Soumojit28/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2025 20:51:45 UTC
+ Last Updated on 15/09/2025 00:23:18 UTC
 <!--END_SECTION:waka-->
 
 ### 🎧 Songs for My Coding
