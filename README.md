@@ -32,8 +32,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C732%20hrs%2052%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
@@ -42,7 +40,7 @@
 
 > 📦 289.1 kB Used in GitHub's Storage 
  > 
-> 🏆 562 Contributions in the Year 2025
+> 🏆 567 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -50,45 +48,6 @@
  > 
 > 🔑 38 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1361 commits        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-🌆 Daytime                1910 commits        ███████░░░░░░░░░░░░░░░░░░   27.81 % 
-🌃 Evening                2058 commits        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
-🌙 Night                  1539 commits        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   915 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Tuesday                  1091 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Wednesday                1014 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Thursday                 1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Friday                   1140 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Saturday                 912 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Sunday                   787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -106,7 +65,7 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Soumojit28/Soumojit28/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 00:22:12 UTC
+ Last Updated on 17/09/2025 00:22:45 UTC
 <!--END_SECTION:waka-->
 
 ### 🎧 Songs for My Coding
