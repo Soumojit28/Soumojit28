@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: soumojit28/github-action-test@main
         with:
-           MESSAGE: "This Is Void"
+           MESSAGE: ${{ secrets.MESSAGE }}
